@@ -1,0 +1,48 @@
+Business Requirement:
+---------------------
+
+To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction and inventory distribution to identify key insights and opportunities for optimization using various KIPs and visualization in Power BI. 
+
+KPI Requirements:
+-----------------
+
+1. Total Sales: Overall revenue generated for all items sold
+2. Average Sales: Average revenue per sale
+3. Number of Items: Total count of items being sold
+4. Average Rating: Average customer feedback
+
+Charts Requirement:
+-------------------
+
+1. Total Sales by Fat Content:
+ -----------------------------
+	Objective: analyze the impact of fat content in the item on slaes.
+	Additional KPI  Metrics: how other KPIs are varying with fat content
+	Chart Type: Donut
+
+2. Total Sales by Item Type:
+ ---------------------------
+	Objective: Identify the performance of different item types to total sales.
+	Additional KPI Metrics: Asses how other KPIs change with item type
+	Chart Type: Bar Chart
+
+3. Fat Content by Outlet for Total Sales:
+ ----------------------------------------
+	Objective: Compare total sales across different outlets segmented by fat content
+	Additional KPI Metrics: Asses how other KPIs change with fat content
+	Chart Type: Stacked Column Chart
+
+4. Total Sales by Outlet Establishment:
+ --------------------------------------
+	Objective: Evaluate how the age or type of outlets establishment influences total sales. 
+	Chart Type: Line Chart
+
+5. Sales by Outlet Size:
+ -----------------------
+	Objective: Analyze the correlation b/w outlet size and total sales.
+	Chart Type: Pie Chart
+
+6. Sales by Outlet Location:
+ ---------------------------
+	Objective: Asses the geographic  distribution of sales across different locations.
+	Chart Type: Funnel Map
